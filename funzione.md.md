@@ -5,3 +5,5 @@ Una _funzione_ è una relazione tra due [insiemi](https://it.wikipedia.org/wiki/
 Sia $X$ il dominio e $Y$ il codominio, la relazione è indicata così: $f:X→Y$.
 
 modifiche modifiche 
+
+modifcudiufhiugsfiuw 
